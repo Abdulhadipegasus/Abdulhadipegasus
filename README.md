@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdulhadi
-- 👀 I’m interested in AI and coding and computers.
-- 🌱 I’m currently learning electronics,different coding languages and deep AI.
-- 💞️ I’m looking to collaborate on AI and graphic designing,arduino projects,webpage development with coding and also wordpress.
+- 👀 I’m interested in AI, coding and Mobile App Development.
+- 🌱 I’m currently learning Electronics, Mobile App Development and different coding languages.
+- 💞️ I’m looking to collaborate on Mobile App Development, Flutter or Mendix, Graphic designing,Arduino projects and AI.
 - 📫 How to reach me? just send me mail on abdulhadipegasus@gmail.com
 
 <!---
